@@ -88,12 +88,6 @@ This project uses health, demographic, and psychosocial variables from the LASI 
 
 ---
 
-## 📜 License  
-
-This project is released under the MIT License.
-
----
-
 ## 💻 Author  
 
 **YASH SHARMA** — NIT BHOPAL INDIA  
