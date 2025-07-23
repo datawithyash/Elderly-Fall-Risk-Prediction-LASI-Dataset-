@@ -96,7 +96,7 @@ This project is released under the MIT License.
 
 ## 💻 Author  
 
-**RJ (Rahul Kumar)** — NIT India  
+**YASH SHARMA** — NIT BHOPAL INDIA  
 *Data Science Enthusiast | AI for Healthcare*
 
 ---
